@@ -1,0 +1,25 @@
+{
+  "name": "test.jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mySlice.test.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirameirovitz/test.jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirameirovitz/test.jest/issues"
+  },
+  "homepage": "https://github.com/shirameirovitz/test.jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.20"
+  }
+}
